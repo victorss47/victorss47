@@ -1,11 +1,11 @@
 # Hi there 👋
 
--Estou estudando desenvolvimento mobile
--Quero atuar com dev mobile
--Tenho 25 anos
--Graduado em Sistemas de Informação
+- Estou estudando desenvolvimento mobile
+- Quero atuar com dev mobile
+- Tenho 25 anos
+- Graduado em Sistemas de Informação
 
-#Eu sei: 
+### Eu sei: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
--Contatos:
+### Contatos:
 <div>
 <a href="https://www.instagram.com/victors47_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victor_souza0@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
